@@ -67,4 +67,17 @@
 
 ![image-20221208113239916](2、BeanDefiniton+默认标签+自定义标签解析.assets/image-20221208113239916.png)
 
-![image-20221208113809487](2、BeanDefiniton+默认标签+自定义标签解析.assets/image-20221208113809487.png)
+
+
+------
+
+![image-20221208142606565](2、BeanDefiniton+默认标签+自定义标签解析.assets/image-20221208142606565.png)
+
+![image-20221208142652871](2、BeanDefiniton+默认标签+自定义标签解析.assets/image-20221208142652871.png)
+
+code-release-notes-spi   
+
+spring.handlers
+
+![image-20221208150033277](2、BeanDefiniton+默认标签+自定义标签解析.assets/image-20221208150033277.png)
+
