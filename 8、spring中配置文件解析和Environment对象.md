@@ -55,3 +55,5 @@ BeanDefinition中老六
 ![image-20221214141225845](8、spring中配置文件解析和Environment对象.assets/image-20221214141225845.png)
 
 ![image-20221214142201162](8、spring中配置文件解析和Environment对象.assets/image-20221214142201162.png)
+
+![image-20221216070527985](8、spring中配置文件解析和Environment对象.assets/image-20221216070527985.png)
